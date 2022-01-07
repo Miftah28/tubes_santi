@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "1087485680310",
+        "project_id": "sansan-novel-bookshop",
+        "storage_bucket": "sansan-novel-bookshop.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1087485680310:android:5647b6dd7e0f5d894e6417",
+            "android_client_info": {
+                "package_name": "com.example.bookstore_app"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "1087485680310-m8t8t0lorjfhgt40onndm5ov84mfspk6.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAQCBb2vHLuCDoeQ9eqTP4RqNHAS6INll0"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "1087485680310-m8t8t0lorjfhgt40onndm5ov84mfspk6.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
